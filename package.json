@@ -1,0 +1,17 @@
+{
+  "name": "daily-3",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
